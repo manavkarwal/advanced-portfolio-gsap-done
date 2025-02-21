@@ -1,6 +1,7 @@
 import React from 'react'
-import Page1 from './pages/Page1'
+
 import Header from './components/Header'
+import Page1 from './pages/page1'
 
 const App = () => {
   return (
