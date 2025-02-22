@@ -26,3 +26,14 @@
   width: fit-content;
   transform: rotate(0deg);
 }
+
+.section2{
+  position: relative;
+  perspective: 4000px;
+}
+
+
+.rotateText{
+  transform-origin: 100% 100%;
+}
+
