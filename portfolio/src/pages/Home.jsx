@@ -23,14 +23,12 @@ const Home = () => {
     })
   }, [xVal, yVal])
   return (
-    <div onMouseMove={(dets) => { mouseMoving(dets); }} id='page1' className='h-screen mb-10 w-screen md:p-7 bg-white'>
+    <div onMouseMove={(dets) => { mouseMoving(dets); }} id='page1' className='h-screen z-14 mb-10 w-screen md:p-7 bg-white'>
 
-      <div id='page1-in' className=' h-full w-full md:rounded-4xl shadow-lg     bg-center bg-cover md:bg-cover md:bg-bottom  shadow-gray-600 ' style={{ backgroundImage: `url(${window.innerWidth < 768 ? bgImage2 : bgImage})` }} >
-
-
+      <div id='page1-in' className=' h-full w-full md:rounded-4xl shadow-lg bg-center bg-cover md:bg-cover md:bg-bottom shadow-gray-600 ' style={{ backgroundImage: `url(${window.innerWidth < 768 ? bgImage2 : bgImage})` }} >
 
         <header className='h-[10%] rounded-4xl flex items-center justify-between px-7 '>
-          <h1 className='font-[anzo3] text-white text-4xl  '>
+          <h1 className='font-[anzo3] text-white text-4xl '>
             Manav Karwal
           </h1>
           <div className='text-white flex justify-between gap-4'>
@@ -43,23 +41,25 @@ const Home = () => {
           </div>
         </header>
 
-        <main id='tiltDiv' ref={tiltRef} className='h-[80%] flex items-center px-10 md:mt-0 mt-40  inset-96 mix-blend-difference '>
+        <main id='tiltDiv' ref={tiltRef} className='h-[80%] flex items-center px-10 md:mt-0 mt-40 inset-96 mix-blend-difference '>
           <h1 className='text-white leading-11 font-[anzo1] text-5xl md:text-6xl'>I am <br></br><span className='font-extrabold text-6xl md:text-7xl leading-14 font-[anzo3]  '>FRONT-END DEV</span> </h1>
         </main>
 
-
-        <footer className='-mt-50 md:-mt-10 h-[10%] flex flex-col md:items-start px-10  text-lg font-medium '>
-        <a  className='bg-white font-extrabold hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg'
+        <footer className='-mt-40 md:-mt-10 h-[10%] z-15 flex flex-col md:items-start px-10 text-lg font-medium '>
+          <a className='bg-white font-extrabold hidden md:block hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg'
             href={resume}
             download="Manav_Karwal_Resume.pdf"
           >Download My Resume</a>
-          <h2 className='md:text-white'>
+          <h2 className='md:text-white '>
             karwalmanav438@gmail.com
           </h2>
-
         </footer>
 
       </div>
+      <a className='bg-white text-black absolute font-bold -mt-33 left-10 text-center my-10font-extrabold md:hidden lg:hidden hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg  '
+        href={resume}
+        download="Manav_Karwal_Resume.pdf"
+      >Download My Resume</a>
 
     </div>
   )
