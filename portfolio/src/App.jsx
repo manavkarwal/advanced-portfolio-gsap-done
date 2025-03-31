@@ -1,18 +1,22 @@
 import React from 'react'
-import Header from './components/Header'
-import Page1 from './pages/page1'
-import Page2 from './pages/Page2'
-import Page3 from './pages/Page3'
-import Page4 from './pages/Page4'
+import Skills from './components/Skills'
+import Home from './pages/Home'
+import Projects from './components/Projects'
+// import Page2 from './pages/Page2'
+import LocomotiveScroll from 'locomotive-scroll';
+
+const locomotiveScroll = new LocomotiveScroll();
+
 
 const App = () => {
   return (
     <>
-      <Header/>
-      <Page1 />
-      <Page2/>
-      {/* <Page3/> */}
-      <Page4/>
+      {/* <Page2/> */}
+      <Home />
+      <h1 className=' font-[anzo1] text-8xl text-center' > SKILLS</h1>
+      <Skills />
+      <h1 className=' font-[anzo1] text-8xl my-10 text-center' > PROJECTS</h1>
+      <Projects />
     </>
   )
 }

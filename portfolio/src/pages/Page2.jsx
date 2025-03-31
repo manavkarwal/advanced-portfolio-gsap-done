@@ -47,3 +47,50 @@ const Page2 = () => {
 }
 
 export default Page2
+
+// custom cursor
+// const mainRef = useRef(null);
+    // const cursorRef = useRef(null);
+    // const imageRef = useRef(null);
+    // const [x, setX] = useState(0);
+    // const [y, setY] = useState(0);
+
+
+    // useGSAP(() => {
+    //     gsap.to(cursorRef.current, {
+    //         x: x,
+    //         y: y,
+    //         duration: 0.3,
+    //         ease: "power2.out"
+    //     })
+    // }, [x, y])
+
+
+
+    // const mainDetails = (dets) => {
+    //     setX(dets.pageX)
+    //     setY(dets.pageY)
+    // }
+
+
+    // const mouseEnter = (e) => {
+    //     gsap.to(cursorRef.current, {
+    //         scale: 3,
+    //         duration: 0.3,
+    //     })
+    //     cursorRef.current.style.backgroundColor = "rgba(255, 255, 255)";
+    //     cursorRef.current.classList.add("mix-blend-difference");
+    // }
+
+    // const mouseLeave = (e) => {
+    //     gsap.to(cursorRef.current, {
+    //         scale: 1,
+    //         duration: 0.3,
+
+    //     })
+
+    // }
+    {/* cursor ball */}
+            {/* <div ref={cursorRef} className='h-[20px] z-10 p-1 w-[20px] text-[4px] bg-black  leading-none rounded-full fixed text-black text-center flex items-center justify-center   font-bold '></div> */}
+            {/* ref={mainRef} */}
+            {/* ref={imageRef} onMouseEnter={(e) => { mouseEnter(e) }} onMouseLeave={(e) => { mouseLeave(e) }}  // mainDetails(dets);  */}

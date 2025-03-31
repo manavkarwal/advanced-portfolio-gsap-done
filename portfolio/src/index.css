@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+body{
+  overflow-x: hidden;
+}
 
 @font-face {
   font-family: anzo1;
@@ -27,10 +30,10 @@
   transform: rotate(0deg);
 }
 
-.section2{
+/* .section2{
   position: relative;
   perspective: 4000px;
-}
+} */
 
 
 .rotateText{
