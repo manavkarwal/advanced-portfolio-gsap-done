@@ -21,8 +21,8 @@ const Projects = () => {
                     <img className='h-10' src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://ecommanav.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/e-commerse"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://ecommanav.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/e-commerse"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
 
                 </div>
             </div>
@@ -37,8 +37,8 @@ const Projects = () => {
                     <img className='h-10' src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://manavkarwal.github.io/weather_1/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/weather_1"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://manavkarwal.github.io/weather_1/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/weather_1"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
 
                 </div>
             </div>
@@ -52,8 +52,8 @@ const Projects = () => {
                     <img className='h-10' src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://manavkarwal.github.io/todo-list-1/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/todo-list-1"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://manavkarwal.github.io/todo-list-1/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/todo-list-1"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
 
                 </div>
 
@@ -68,8 +68,8 @@ const Projects = () => {
                     <img className='h-9' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vteG2DudlxILcIB8idhgX49HFuCk4_nEtQ&s" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://manavreactgsap.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/gsap-animated-website"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://manavreactgsap.vercel.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/gsap-animated-website"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
                 </div>
             </div>
 
@@ -82,8 +82,8 @@ const Projects = () => {
                     <img className='h-9' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGC0jDcT3Ns8NId2z7D6KC0xwZ-B0T1t1mQ&s" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://manav-disney-clone.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/hotstar_clone"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://manav-disney-clone.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/hotstar_clone"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
                 </div>
             </div>
 
@@ -96,8 +96,8 @@ const Projects = () => {
                     {/* <img  className='h-9' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGC0jDcT3Ns8NId2z7D6KC0xwZ-B0T1t1mQ&s" alt="#" /> */}
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://manav-password-manager.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/pass-manager"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://manav-password-manager.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/pass-manager"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
                 </div>
             </div>
 
@@ -110,8 +110,8 @@ const Projects = () => {
                     <img className='h-9' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vteG2DudlxILcIB8idhgX49HFuCk4_nEtQ&s" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://two-good-co-manav.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    <a href="https://github.com/manavkarwal/two-good-go-clone-gsap"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
+                    <a target="_blank" href="https://two-good-co-manav.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    <a target="_blank" href="https://github.com/manavkarwal/two-good-go-clone-gsap"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a>
                 </div>
             </div>
 
@@ -124,8 +124,8 @@ const Projects = () => {
                     <img className='h-9' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vteG2DudlxILcIB8idhgX49HFuCk4_nEtQ&s" alt="#" />
                 </div>
                 <div className='shadow-md shadow-gray-750  my-2   bg-white  items-center justify-end gap-5 px-5 py-3 1 rounded-2xl flex '>
-                    <a href="https://meditz.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
-                    {/* <a href="https://github.com/manavkarwal/portfolio"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a> */}
+                    <a target="_blank" href="https://meditz.netlify.app/"><img className='h-5' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQblusZN1j1JkklzUBnZ5V_fIwtCA1G7RAzFW0KGVE-LRiLWkX-7XDZNermi3FTOM7ttQ&usqp=CAU" alt="#" /></a>
+                    {/* <a target="_blank" href="https://github.com/manavkarwal/portfolio"> <img className='h-7' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsE1-9o2QpmscStUAdG7QqF70KNYuSGRwNrQ&s" alt="#" /></a> */}
                 </div>
             </div>
         </div>

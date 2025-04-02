@@ -32,10 +32,10 @@ const Home = () => {
             Manav Karwal
           </h1>
           <div className='text-white flex justify-between gap-4'>
-            <a href="https://www.linkedin.com/in/manav-karwal/">
+            <a target="_blank" href="https://www.linkedin.com/in/manav-karwal/">
               <img className='h-8 hover:scale-103' src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="" />
             </a>
-            <a href="https://github.com/manavkarwal">
+            <a target="_blank" href="https://github.com/manavkarwal">
               <img className='h-8 hover:scale-103 bg-white rouded-lg' src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" />
             </a>
           </div>
@@ -46,7 +46,7 @@ const Home = () => {
         </main>
 
         <footer className='-mt-40 md:-mt-10 h-[10%] z-15 flex flex-col md:items-start px-10 text-lg font-medium '>
-          <a className='bg-white font-extrabold hidden md:block hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg'
+          <a target="_blank" className='bg-white font-extrabold hidden md:block hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg'
             href={resume}
             download="Manav_Karwal_Resume.pdf"
           >Download My Resume</a>
@@ -56,7 +56,7 @@ const Home = () => {
         </footer>
 
       </div>
-      <a className='bg-white text-black absolute font-bold -mt-33 left-10 text-center my-10font-extrabold md:hidden lg:hidden hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg  '
+      <a target="_blank" className='bg-white text-black absolute font-bold -mt-33 left-10 text-center my-10font-extrabold md:hidden lg:hidden hover:bg-gray-400 px-2 w-54 md:w-[18%] py-1 rounded-lg  '
         href={resume}
         download="Manav_Karwal_Resume.pdf"
       >Download My Resume</a>
